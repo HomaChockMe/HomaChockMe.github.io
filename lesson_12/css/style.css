@@ -1,0 +1,40 @@
+.header {
+	font-size: 20px;
+	line-height: 1.5;
+	margin-top: 122px;
+}
+.fist-phrase {
+	display:block;
+}
+.content-block {
+	margin-top: 80px;
+}
+.block {
+	border: solid 5px #2727d9;
+}
+.data-box-header {
+	font-size: 20px;
+	font-weight: 700;
+	margin-top: 10px;
+}
+.button-data-box {
+	margin-bottom: 28px;
+}
+.pictures {
+	margin-top: 60px;
+}
+.pictures p {
+	margin-top: 30px;
+}
+.anvatages {
+	font-weight: 600;
+}
+.button-under-img, .pictures-fist-row{
+	margin-top: 70px;
+}
+.pictures-second-row {
+	margin-bottom: 180px;
+}
+.photos {
+	margin-top: 35px;
+}
